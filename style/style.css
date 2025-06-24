@@ -396,5 +396,14 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 6px;   
+    gap: 6px;
+    position: relative; 
+    right: 50px; 
+}
+.copy-header{
+    font-family: sans-serif;
+    margin-top: 30px;   
+}
+.footer-para{
+   
 }
